@@ -14,4 +14,4 @@ Lab 3 -
 Hive
 
 
-Conducted under guidance of Prof. Devansh Parikh
+Conducted under guidance of Prof. Devansh Parikh and Prof. Sarada Samantaray
